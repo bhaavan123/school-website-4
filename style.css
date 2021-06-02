@@ -1,0 +1,61 @@
+.carousel-inner img{
+ width:700px;
+    height:700px;
+}
+#campus_life iframe
+{
+    width: 80%;
+    height:800px;
+}
+#welcome {
+    color: #FFFFFF;
+    bottom: 0;
+    background: linear-gradient(#3bf2f5 0%, #3866f2 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+#campus_life{
+ background: linear-gradient(#3866f2 0%, #3bf2f5 100%); 
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+} 
+.achievements_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width:100%;
+    display:inline-block;
+    
+}
+.achievements_head i{
+    float:right;
+    
+}
+.acheivements_text span{
+    color:#ff7700;}
+    #achievements{
+ background: linear-gradient(#3866f2 0%, #3bf2f5 100%); 
+    text-align: center;
+    font-family: cursive;
+    color: crimson;
+} 
+#whats_new{
+     background: linear-gradient(#3866f2 0%, #3bf2f5 100%);3866f2
+}
+#Alumini img{
+    height: 350px;
+}
+#Alumini{
+    background-color: linear-gradient(#3bf2f5 0%, #3866f2 100%);
+        text-align: center;
+    color: red;
+    font-family: cursive;
+}
+
+
+    
+    
